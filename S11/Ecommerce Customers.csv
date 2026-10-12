@@ -1,0 +1,16 @@
+Email,Address,Avg. Session Length,Time on App,Time on Website,Length of Membership,Yearly Amount Spent
+customer1@example.com,City 1,32.1,10.5,37.0,1.2,410
+customer2@example.com,City 2,34.5,11.2,38.2,1.5,435
+customer3@example.com,City 3,36.2,12.1,39.5,1.8,455
+customer4@example.com,City 4,38.4,13.0,40.1,2.1,480
+customer5@example.com,City 5,40.1,13.8,41.3,2.5,505
+customer6@example.com,City 6,42.3,14.6,42.0,2.8,530
+customer7@example.com,City 7,44.0,15.2,43.5,3.1,555
+customer8@example.com,City 8,45.8,16.1,44.1,3.5,580
+customer9@example.com,City 9,47.2,17.0,45.0,3.8,610
+customer10@example.com,City 10,49.1,17.8,46.2,4.2,640
+customer11@example.com,City 11,50.5,18.5,47.0,4.6,670
+customer12@example.com,City 12,52.2,19.2,48.3,5.0,700
+customer13@example.com,City 13,54.0,20.1,49.1,5.4,735
+customer14@example.com,City 14,56.1,21.0,50.0,5.8,770
+customer15@example.com,City 15,58.3,22.0,51.2,6.2,810
